@@ -1,3 +1,15 @@
 # **HavenHub**
 
-HavenHub, built with HTML, CSS, JavaScript, Bootstrap, Node.js, Express.js, MongoDB, and MVC architecture, offers a user-friendly platform to list and book accommodations. Explore destinations effortlessly on an interactive map powered by Mapbox API.
+HavenHub - Provides a user-friendly platform for listing and booking accommodations.
+
+Built with JavaScript, Node.js, Express.js, Bootstrap, HTML, CSS and MongoDB.
+
+Organized using MVC architecture for efficient code management and scalability.
+
+Integrated with Cloudinary for optimized media storage and fast retrieval.
+
+Powered by Mapbox API, enabling effortless destination exploration.
+
+Utilizes EJS for dynamic and visually engaging interfaces.
+
+https://github.com/user-attachments/assets/eb926947-c873-4aea-a86c-e28b39b87f53

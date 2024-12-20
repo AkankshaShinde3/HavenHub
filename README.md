@@ -2,7 +2,7 @@
 
 HavenHub - Provides a user-friendly platform for listing and booking accommodations.
 
-Built with JavaScript, Node.js, Express.js, Bootstrap, HTML, CSS and MongoDB.
+Built with JavaScript, Node.js, Express.js, Bootstrap, HTML, CSS and MongoDB and JOI for schema validation.
 
 Organized using MVC architecture for efficient code management.
 
